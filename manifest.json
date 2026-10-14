@@ -1,6 +1,6 @@
 {
-  "name": "서재 · 독서 앱",
-  "short_name": "서재",
+  "name": "서가 · 독서 앱",
+  "short_name": "서가",
   "description": "txt, docx, pdf, epub, md, html 파일을 읽는 오프라인 독서 앱",
   "lang": "ko",
   "id": "./",
